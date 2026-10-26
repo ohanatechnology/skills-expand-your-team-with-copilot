@@ -200,7 +200,7 @@ The teachers have already created several important issues, but let's do a test 
 
    Here are the details:
 
-   Description: Explore the fantastic stories of the most interesting characters from Japanese Manga (graphic novels).
+   Description: Dive into the vibrant world of Japanese Manga, from epic heroes to unforgettable rivals, and share the stories that spark your imagination.
 
    Schedule: Tuesdays at 7pm
    Max attendance: 15 people
